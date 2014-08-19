@@ -16,6 +16,7 @@ nudge the others to make a decision.
 8. Map with existing user choices, user locations and autosuggest feature.
 9. Multiple screen View for Organizer and the attendees of the event within a 
 single Activity.
+10. Timer to indicate when the Voting is completed.
 
 ![Video Walkthrough](Instadine.gif)
 
