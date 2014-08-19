@@ -18,3 +18,11 @@ nudge the others to make a decision.
 single Activity.
 
 ![Video Walkthrough](Instadine.gif)
+
+
+### Open Source Libraries used
+* [ Android Better Pickers ] (https://github.com/derekbrameyer/android-betterpickers) 
+* [ Facebook SDK ] (https://developers.facebook.com/docs/android)
+* [ Pull To Refresh ListView ] (https://github.com/chrisbanes/Android-PullToRefresh/blob/master/library/src/com/handmark/pulltorefresh/library/PullToRefreshListView.java)
+* [ Google Play Services ] (http://developer.android.com/google/play-services/setup.html)
+* [ CircularImageView ] (https://github.com/lopspower/CircularImageView)
