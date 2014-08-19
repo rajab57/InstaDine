@@ -1,6 +1,7 @@
 # Instadine
 
-Instadine is an app to come to a consensus on where to eat among friends.
+Instadine is an app to help reduce the group time and effort it takes to decide
+on a restaurant for a meal.
 
 
 ### Features
